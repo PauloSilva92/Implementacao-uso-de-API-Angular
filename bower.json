@@ -1,0 +1,15 @@
+{
+  "name": "front end",
+  "authors": [
+    "paulosilva92 <paulorob_s@hotmail.com>"
+  ],
+  "description": "implementação em angular da api",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.8"
+  }
+}
